@@ -1,6 +1,4 @@
 # Multiplayer-game
 
-A multiplayer game simple enough for anyone to learn important concepts about architecture and software development.
-
-How to use:
+<img src="https://raw.githubusercontent.com/filipedeschamps/meu-primeiro-jogo-multiplayer/master/game-preview.gif" width="550">
 
